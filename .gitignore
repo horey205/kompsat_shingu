@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary outputs & logs
+ProcessedOutputs/
+ProcessedOutputs_Mosaic/
+*.log
+*.tmp
+*.vrt
+
+# Environments
+venv/
+.env/
+env/
+
+# Editor directories
+.vscode/
+.idea/
